@@ -2694,10 +2694,10 @@ const alimentos = {
     "carboidrato": "5.8"
   },
   "Iogurte, sabor abacaxi": {
-    "energia": "*",
-    "proteina": "*",
-    "gordura": "*",
-    "carboidrato": "*"
+    "energia": "0",
+    "proteina": "0",
+    "gordura": "0",
+    "carboidrato": "0"
   },
   "Iogurte, sabor morango": {
     "energia": "70",
@@ -2736,16 +2736,16 @@ const alimentos = {
     "carboidrato": "53.0"
   },
   "Leite, de vaca, desnatado, UHT": {
-    "energia": "*",
-    "proteina": "*",
-    "gordura": "*",
-    "carboidrato": "*"
+    "energia": "0",
+    "proteina": "0",
+    "gordura": "0",
+    "carboidrato": "0"
   },
   "Leite, de vaca, integral": {
-    "energia": "*",
-    "proteina": "*",
-    "gordura": "*",
-    "carboidrato": "*"
+    "energia": "0",
+    "proteina": "0",
+    "gordura": "0",
+    "carboidrato": "0"
   },
   "Leite, de vaca, integral, pó": {
     "energia": "497",
@@ -3540,10 +3540,10 @@ const alimentos = {
     "carboidrato": "10.4"
   },
   "Coco,  verde, cru": {
-    "energia": "*",
-    "proteina": "*",
-    "gordura": "*",
-    "carboidrato": "*"
+    "energia": "0",
+    "proteina": "0",
+    "gordura": "0",
+    "carboidrato": "0"
   },
   "Farinha, de mesocarpo de babaçu, crua": {
     "energia": "329",
