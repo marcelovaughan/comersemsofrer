@@ -1549,15 +1549,15 @@ const alimentos = {
   },
   "Azeite, de dendê": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Azeite, de oliva, extra virgem": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Manteiga, com sal": {
     "energia": "726",
@@ -1597,39 +1597,39 @@ const alimentos = {
   },
   "Óleo, de babaçu": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Óleo, de canola": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Óleo, de girassol": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Óleo, de milho": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Óleo, de pequi": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Óleo, de soja": {
     "energia": "884",
-    "proteina": "NA",
+    "proteina": "0",
     "gordura": "100.0",
-    "carboidrato": "NA"
+    "carboidrato": "0"
   },
   "Abadejo, filé, congelado, assado": {
     "energia": "112",
@@ -3090,16 +3090,16 @@ const alimentos = {
     "carboidrato": "89.2"
   },
   "Sal, dietético": {
-    "energia": "NA",
-    "proteina": "NA",
-    "gordura": "NA",
-    "carboidrato": "NA"
+    "energia": "0",
+    "proteina": "0",
+    "gordura": "0",
+    "carboidrato": "0"
   },
   "Sal, grosso": {
-    "energia": "NA",
-    "proteina": "NA",
-    "gordura": "NA",
-    "carboidrato": "NA"
+    "energia": "0",
+    "proteina": "0",
+    "gordura": "0",
+    "carboidrato": "0"
   },
   "Shoyu": {
     "energia": "61",
@@ -3586,6 +3586,13 @@ const alimentos = {
     "proteina": 17.63,
     "gordura": 14.13,
     "carboidrato": 22.01,
+    "porcao": 100
+  },
+  "Óleo de coco": {
+    "energia": 862,
+    "proteina": 0,
+    "gordura": 100,
+    "carboidrato": 0,
     "porcao": 100
   }
 }
